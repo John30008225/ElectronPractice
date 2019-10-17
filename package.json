@@ -1,0 +1,14 @@
+{
+  "name": "electronproject1",
+  "version": "1.0.0",
+  "description": "Electron Project Example Created By John Elder(30008225)",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "John Elder",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^6.0.12"
+  }
+}
